@@ -1,7 +1,7 @@
 # 👩‍🔧Group study project with Hyooden
 ### Description
 
-*EN*:
+*EN*: Finding the biggest square
 
 [How to run](https://github.com/Gabriel-Em/42_AcademyPlus---BSQ---#how-to-run)
 
